@@ -1,8 +1,8 @@
 -- SQL includes 4 subsets:
--- 1. DDL
--- 2. DML
--- 3. DQL
--- 4. DCL
+-- 1. DDL - Data Definition Language
+-- 2. DML - Data Manipulation Language
+-- 3. DQL- Data Query Language
+-- 4. DCL - Data Control Language
 
 --1- DDL
 -- create  database
